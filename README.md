@@ -1,2 +1,2 @@
-# ex8_Machine-learning_Coursera
+# ex8_nachine-learning_Coursera
 Anomaly Detection and Recommender Systems
